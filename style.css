@@ -1,0 +1,15 @@
+.text_images_and_result{
+    width: 80%;
+    border: 2px solid ;
+    border-radius: 10px;
+}
+
+ol{
+    list-style: none;
+}
+
+img{
+    height: 200px ;
+    width: 170px;
+    margin-top: 20px;
+}
